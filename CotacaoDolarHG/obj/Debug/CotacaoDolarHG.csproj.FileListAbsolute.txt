@@ -1,0 +1,14 @@
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe.config
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.pdb
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.SuggestedBindingRedirects.cache
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.FrmCotacaoDolar.resources
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.Properties.Resources.resources
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.GenerateResource.cache
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.exe
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.pdb
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\geremias.bezerra\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CopyComplete
